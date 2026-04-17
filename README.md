@@ -58,11 +58,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=feehabcore&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=feehabcore&theme=default&hide_border=true&layout=compact)
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=feehabcore&theme=flat&no-frame=true&no-bg=true&margin-w=4)
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=feehabcore&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=feehabcore&icon=0&color=3)](https://visitcount.itsvg.in)
