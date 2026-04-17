@@ -1,5 +1,5 @@
 # About Me:
-. I’m currently working on: Full-stack web development projects (crypto/trading platforms, dashboards, and modern UI websites)<br>.. I’m looking to collaborate on: Innovative web apps, SaaS platforms, and startup ideas<br>... I’m looking for help with: Scaling projects, backend optimization, and advanced system design<br>.... I’m currently learning: Advanced backend architecture, APIs, and performance optimization<br>...... Ask me about: Web development, UI/UX design, gaming setups, and tech trends<br>6 Fun fact: I turn ideas into real working products faster than expected 
+* I’m currently working on: Full-stack web development projects (crypto/trading platforms, dashboards, and modern UI websites)<br>* I’m looking to collaborate on: Innovative web apps, SaaS platforms, and startup ideas<br>* I’m looking for help with: Scaling projects, backend optimization, and advanced system design<br>* I’m currently learning: Advanced backend architecture, APIs, and performance optimization<br>* Ask me about: Web development, UI/UX design, gaming setups, and tech trends<br>* Fun fact: I turn ideas into real working products faster than expected 
 
 
 ##  Socials:
