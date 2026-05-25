@@ -34,7 +34,7 @@ const yeomun = {
 
 ---
 
-## `{ }` Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -74,7 +74,7 @@ const yeomun = {
 
 ---
 
-## `[ ]` GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -93,7 +93,7 @@ const yeomun = {
 
 ---
 
-## `[ ]` GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
 
