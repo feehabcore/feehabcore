@@ -1,18 +1,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=YEOMUN%20HASAN&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=FULLSTACK%20DEVELOPER&descAlignY=58&descSize=18&descColor=cc44ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" width="100%"/>
 
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=CC44FF&center=true&vCenter=true&width=600&lines=I+build+scalable+apps+%26+websites;Turning+ideas+into+digital+products;Fullstack+Developer+%7C+Problem+Solver;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-<!-- Social badges -->
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/feehabcore)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/feehabcore)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/feehabcore)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/feehabcore)
 
 </div>
 
@@ -20,7 +12,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
 
-### 👾 About Me
+###  About Me
 
 ```javascript
 const yeomun = {
@@ -33,16 +25,16 @@ const yeomun = {
 };
 ```
 
-- 🔨 I build **scalable apps, websites, and automations**
-- 💡 I solve real problems with polished digital products
-- 🎮 Gamer when not coding
-- 📬 Reach me at any of my socials **@feehabcore**
+-  I build **scalable apps, websites, and automations**
+-  I solve real problems with polished digital products
+-  Gamer when not coding
+-  Reach me at any of my socials **@feehabcore**
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -82,7 +74,7 @@ const yeomun = {
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -101,7 +93,7 @@ const yeomun = {
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
 
@@ -113,7 +105,7 @@ const yeomun = {
 
 <div align="center">
 
-### 💬 Let's Connect
+###  Let's Connect
 
 *I build scalable **apps, websites, and automations** that solve real problems.*
 *Turning ideas into polished digital products — let's build something great together.*
