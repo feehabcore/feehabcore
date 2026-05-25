@@ -25,10 +25,10 @@ const yeomun = {
 };
 ```
 
-- `//` I build **scalable apps, websites, and automations**
-- `//` I solve real problems with polished digital products
-- `//` Gamer when not coding
-- `//` Reach me at any of my socials **@feehabcore**
+-  I build **scalable apps, websites, and automations**
+-  I solve real problems with polished digital products
+-  Gamer when not coding
+-  Reach me at any of my socials **@feehabcore**
 
 <br clear="right"/>
 
@@ -74,30 +74,25 @@ const yeomun = {
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=feehabcore&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feehabcore&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=feehabcore&theme=midnight-purple&hide_border=true" alt="GitHub Streak" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=feehabcore&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="55%"/>
 
 <br/><br/>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=feehabcore&bg_color=0d0d0d&color=cc44ff&line=9b30d9&point=ffffff&area=true&hide_border=true)](https://github.com/feehabcore)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=feehabcore&bg_color=0d0d0d&color=cc44ff&line=9b30d9&point=ffffff&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
 
 </div>
 
 ---
 
-##  GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=feehabcore&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=feehabcore&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
 
 </div>
 
